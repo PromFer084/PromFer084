@@ -52,6 +52,5 @@
 
 ### 📫 Contact Me
 - 💌 Email: fernando@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/fernando-dev](https://linkedin.com/in/fernando-dev)
-- 🌐 Portfolio: [fernando.dev](https://fernando.dev)
+- 🔗 LinkedIn: https://in/fernandoraulfernandez
 
