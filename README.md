@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Fernando 👋</h1>
 
-<!--
-**PromFer084/PromFer084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">🚀 Junior Full Stack Developer | UX/UI Designer | TypeScript Enthusiast</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <<img src="https://komarev.com/ghpvc/?username=PromFer084&style=flat-square&color=blue" alt=""/>
+/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📍 About Me
+- 💻 I’m currently working on building CLI tools and APIs using Node.js and TypeScript.
+- 🔍 I'm passionate about learning backend and frontend development.
+- ✍️ I also love writing about UX and UI design.
+- 🤝 I enjoy collaborating on open-source projects and helping others learn to code.
+
+---
+
+### 💼 Technologies & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="Streak"/>
+</p>
+
+---
+
+### 📝 Latest Projects
+- 📚 [Book API](https://github.com/TU_USUARIO/NOMBRE_API) - A RESTful API for managing books with Node.js and Express.
+- 🎬 [Movie CLI App](https://github.com/TU_USUARIO/movie-cli) - A terminal-based movie search app using filters and sorting.
+
+---
+
+### 📫 Contact Me
+- 💌 Email: fernando@example.com
+- 🔗 LinkedIn: [linkedin.com/in/fernando-dev](https://linkedin.com/in/fernando-dev)
+- 🌐 Portfolio: [fernando.dev](https://fernando.dev)
+
