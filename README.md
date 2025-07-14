@@ -3,7 +3,7 @@
 <p align="center">🚀 Junior Full Stack Developer | UX/UI Designer | TypeScript Enthusiast</p>
 
 <p align="center">
-  <<img src="https://komarev.com/ghpvc/?username=PromFer084&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=PromFer084&style=flat-square&color=blue" alt=""/>
 />
 </p>
 
@@ -49,7 +49,7 @@
 ---
 
 ### 📫 Contact Me
-- 💌 Email: fernando@example.com
+- 💌 Email: fernando@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/fernando-dev](https://linkedin.com/in/fernando-dev)
 - 🌐 Portfolio: [fernando.dev](https://fernando.dev)
 
