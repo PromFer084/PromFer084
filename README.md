@@ -2,11 +2,6 @@
 
 <p align="center">🚀 Junior Full Stack Developer | UX/UI Designer | TypeScript Enthusiast</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PromFer084&style=flat-square&color=blue" alt="Profile Views" />
-
-</p>
-
 ---
 
 ### 📍 About Me
@@ -14,6 +9,13 @@
 - 🔍 I'm passionate about learning backend and frontend development.
 - ✍️ I also love writing about UX and UI design.
 - 🤝 I enjoy collaborating on open-source projects and helping others learn to code.
+
+- ## 🧠 Acerca de Mí
+- 🔭 Actualmente estoy creando herramientas CLI y APIs con Node.js y TypeScript.
+- 🌱 Aprendiendo desarrollo full stack con enfoque en buenas prácticas y clean code.
+- 🎨 Me interesa también el diseño UX/UI y la experiencia de usuario.
+- 🤝 Disfruto colaborar en proyectos open source y trabajar en equipo.
+
 
 ---
 
