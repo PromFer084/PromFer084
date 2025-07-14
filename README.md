@@ -52,5 +52,5 @@
 
 ### 📫 Contact Me
 - 💌 Email: fernando@gmail.com
-- 🔗 LinkedIn: https://in/fernandoraulfernandez
+- 🔗 LinkedIn: https://www.linkedin.com/in/fernandoraulfernandez
 
